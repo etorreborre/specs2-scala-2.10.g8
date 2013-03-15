@@ -12,7 +12,8 @@
 .scala_dependencies
 *.class
 */target/*
-project/
+project/target/
+project/project/target/
 out/*
 build/
 bin/
