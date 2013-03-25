@@ -7,7 +7,7 @@ version := "1.0"
 scalaVersion := "2.10.1"
 
 libraryDependencies ++= Seq(
-  "org.specs2" %% "specs2" % "1.14.1-SNAPSHOT",
+  "org.specs2" %% "specs2" % "1.15-SNAPSHOT",
   "org.scala-lang" % "scala-reflect" % "2.10.1",  
   "org.mockito" % "mockito-all" % "1.9.0",
   "org.scalacheck" %% "scalacheck" % "1.10.0",
